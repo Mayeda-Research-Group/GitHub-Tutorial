@@ -1,5 +1,8 @@
 ## GitHub Tutorial on Basic Functionalities 
-Slides and other resources can be found in the Google drive folder [here](https://drive.google.com/drive/folders/1AzbOqtJWD5G6TCD9i60y0HzlQxl_ttwY?usp=sharing).
+Slides and other resources can be found in these Google drive folders
+
+- [here, for EPIDEM207](https://drive.google.com/drive/folders/1AzbOqtJWD5G6TCD9i60y0HzlQxl_ttwY?usp=sharing)
+- and [here](https://drive.google.com/drive/folders/1WPClgefMWRWZ7bnCJgEsAAJ70gPYmfyx?usp=sharing), for [KHANDLE](https://drive.google.com/drive/folders/1moKHL9dKQFyeN-dtWc5_69ujjPjTgb4F?usp=sharing)
 
 ### Preparations 
 - Open a GitHub account using your UCLA email address and apply for [Student Developer Pack](https://education.github.com/benefits?type=student)
