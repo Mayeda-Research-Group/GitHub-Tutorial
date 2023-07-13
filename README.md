@@ -5,7 +5,7 @@
 ---------
 
 ## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
+Project description: A little info about your project and/or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
 
 ## Features
 What makes your project stand out?
